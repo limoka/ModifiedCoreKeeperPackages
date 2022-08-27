@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace Unity.Physics.Editor
 {
-    [CustomPropertyDrawer(typeof(PhysicsMaterialProperties))]
+    //[CustomPropertyDrawer(typeof(PhysicsMaterialProperties))]
     class PhysicsMaterialPropertiesDrawer : BaseDrawer
     {
         static class Content
